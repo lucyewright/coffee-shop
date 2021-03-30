@@ -3,6 +3,6 @@ module.exports = {
     title: 'The Coffee Blog'
   },
   plugins: [
-    'gatsby-plugin-natlify-cms'
+    'gatsby-plugin-netlify-cms'
   ]
 };
